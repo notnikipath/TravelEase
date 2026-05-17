@@ -1,0 +1,4002 @@
+[
+  {
+    "event_type": "search",
+    "user_id": "user-015",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 14091.76,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026078+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-021",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 2223.8,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026089+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-037",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 24640.21,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026094+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-032",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 5787.69,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026097+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-019",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 94829.15,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026125+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-021",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 2913.51,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026132+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-008",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 9081.21,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026139+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-005",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 2614.1,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026142+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-015",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 3720.18,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026145+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-036",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 6454.52,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026148+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-048",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 1357.8,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026150+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-009",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 4176.02,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026153+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-013",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 3102.27,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026156+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-025",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 23995.3,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026159+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-049",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 2915.2,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026161+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-008",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 6273.22,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026164+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-034",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 1847.05,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026166+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-004",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 5636.74,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026170+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-043",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 5583.01,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026172+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-015",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 3961.5,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026175+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-022",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 4341.93,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026177+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-006",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 11618.38,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026180+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-013",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 1581.32,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026182+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-016",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 6261.14,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026184+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-047",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 6069.89,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026187+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-025",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 88848.59,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026189+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-001",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 1931.06,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026192+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-008",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 4866.26,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026194+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-028",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 92225.6,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026198+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-036",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 2963.18,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026201+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-042",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 117770.79,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026203+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-009",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 87179.15,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026206+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-043",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 1448.84,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026208+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-003",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 12770.79,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026210+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-018",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 13818.09,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026213+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-038",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 17949.88,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026215+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-038",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 1560.88,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026218+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-033",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 4130.5,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026220+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-030",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 2850.61,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026223+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-023",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 1470.48,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026225+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-045",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 3004.65,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026228+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-006",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 4430.99,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026232+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-036",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 29781.43,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026236+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-029",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 2196.01,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026239+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-016",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 2798.12,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026241+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-028",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 9116.87,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026244+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-014",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 50776.19,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026246+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-011",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 2595.48,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026249+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-016",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 1330.35,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026251+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-021",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 4851.58,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026254+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-014",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 63242.19,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026257+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-004",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 5903.88,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026259+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-028",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 9611.67,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026262+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-023",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 4200.77,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026264+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-042",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 2578.75,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026267+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-024",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 9590.13,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026269+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-009",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 7704.13,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026273+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-018",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 13876.47,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026275+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-008",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 43895.87,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026278+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-014",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 2746.14,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026280+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-025",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 2846.64,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026283+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-013",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 8821.87,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026285+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-049",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 2311.1,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026288+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-048",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 2259.05,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026290+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-007",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 11341.4,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026293+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-022",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 1723.7,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026296+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-002",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 5643.89,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026298+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-006",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 1556.78,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026300+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-018",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 5051.12,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026303+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-045",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 97595.49,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026305+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-007",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 9978.33,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026307+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-043",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 76705.39,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026317+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-008",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 2053.22,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026328+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-034",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 2795.29,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026333+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-008",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 8778.59,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026336+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-009",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 10180.05,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026343+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-018",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 94395.39,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026346+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-027",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 1400.43,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026349+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-028",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 3203.17,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026352+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-032",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 2944.51,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026354+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-016",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 2125.83,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026357+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-017",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 15733.5,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026359+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-022",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 111183.84,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026363+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-028",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 61723.25,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026366+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-005",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 6832.65,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026368+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-004",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 2072.44,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026371+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-002",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 51194.67,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026373+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-044",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 6586.13,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026376+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-005",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 4910.11,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026378+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-042",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 86865.26,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026380+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-031",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 10517.1,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026383+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-030",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 5472.41,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026385+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-023",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 2554.07,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026388+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-036",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 4196.7,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026391+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-035",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 6093.13,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026394+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-049",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 4249.25,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026397+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-024",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 1234.74,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026400+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-050",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 3728.27,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026402+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-049",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 6142.32,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026404+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-032",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 7068.57,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026407+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-020",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 29099.82,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026409+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-039",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 2979.63,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026412+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-028",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 68956.39,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026414+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-023",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 5091.64,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026417+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-040",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 10105.07,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026419+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-003",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 2277.58,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026422+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-047",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 1850.91,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026424+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-033",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 3228.74,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026429+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-017",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 16433.58,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026432+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-003",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 4368.61,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026434+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-033",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 1381.41,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026437+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-008",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 5165.05,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026439+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-013",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 2299.25,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026441+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-002",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 3121.37,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026444+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-044",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 1246.93,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026446+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-047",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 6672.46,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026450+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-002",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 4152.97,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026453+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-009",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 4781.88,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026455+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-015",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 100510.8,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026457+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-042",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 31004.1,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026460+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-041",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 1270.47,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026463+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-017",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 1796.04,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026465+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-014",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 1499.28,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026468+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-048",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 65632.51,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026470+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-034",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 9731.69,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026472+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-020",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 4640.62,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026474+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-009",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 3649.2,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026477+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-024",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 4987.8,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026479+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-008",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 3374.45,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026482+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-044",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 4484.57,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026485+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-016",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 9195.29,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026487+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-023",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 6104.18,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026490+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-029",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 6412.25,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026492+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-048",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 5704.03,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026494+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-026",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 1479.99,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026497+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-026",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 9958.62,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026500+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-040",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 7051.94,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026502+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-027",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 4691.67,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026505+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-005",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 4352.55,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026507+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-009",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 20630.07,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026510+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-018",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 1685.52,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026513+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-034",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 6040.26,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026515+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-020",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 35550.53,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026517+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-026",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 5222.86,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026520+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-018",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 10383.36,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026523+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-008",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 3656.33,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026525+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-048",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 8062.26,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026569+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-006",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 6019.49,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026577+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-048",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 3733.64,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026581+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-041",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 1536.71,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026585+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-045",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 2173.03,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026588+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-040",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 6625.47,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026590+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-024",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 9610.81,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026593+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-037",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 4601.63,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026595+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-027",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 1869.79,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026600+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-007",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 9380.34,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026602+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-025",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 2525.51,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026606+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-012",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 1641.56,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026609+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-039",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 28695.13,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026611+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-020",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 3365.4,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026614+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-024",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 58593.84,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026617+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-017",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 30255.03,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026619+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-024",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 3042.53,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026622+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-027",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 18700.48,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026625+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-020",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 3999.72,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026628+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-013",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 5131.61,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026631+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-035",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 3218.52,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026634+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-022",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 1408.53,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026636+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-040",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 1288.84,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026639+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-041",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 29677.24,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026641+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-023",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 17511.86,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026644+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-010",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 2186.25,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026646+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-021",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 9826.39,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026650+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-006",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 1218.68,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026654+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-037",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 3678.48,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026657+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-041",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 2121.26,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026659+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-007",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 77770.73,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026662+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-023",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 11220.96,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026664+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-009",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 1573.79,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026667+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-001",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 8131.54,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026669+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-040",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 2324.12,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026672+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-027",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 26478.16,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026674+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-046",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 111589.87,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026676+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-022",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 75006.11,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026679+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-021",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 2840.94,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026681+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-042",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 1806.48,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026683+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-011",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 1966.29,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026686+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-032",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 87854.19,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026688+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-033",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 16665.34,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026691+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-021",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 31145.43,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026693+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-040",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 5217.08,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026695+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-016",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 2497.9,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026698+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-007",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 10819.74,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026700+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-023",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 5143.3,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026703+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-018",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 88764.0,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026707+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-045",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 1388.39,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026709+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-037",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 2301.68,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026712+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-031",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 1774.63,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026714+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-014",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 10075.12,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026716+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-030",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 2625.03,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026719+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-012",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 75274.66,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026721+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-049",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 2129.66,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026724+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-005",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 28121.34,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026726+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-025",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 5797.38,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026728+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-042",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 1934.92,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026731+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-027",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 23144.97,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026734+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-020",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 6847.12,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026736+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-044",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 2087.29,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026738+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-034",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 1282.83,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026741+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-018",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 6089.35,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026743+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-046",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 3852.27,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026745+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-024",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 7497.89,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026748+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-011",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 19417.66,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026751+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-024",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 82246.11,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026754+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-015",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 2326.46,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026756+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-033",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 63444.58,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026758+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-021",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 2438.61,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026761+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-045",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 1675.85,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026763+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-018",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 86366.04,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026765+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-017",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 69654.94,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026768+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-016",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 4595.22,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026770+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-039",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 97050.83,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026773+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-047",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 8683.37,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026775+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-016",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 1469.59,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026777+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-043",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 7776.4,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026780+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-041",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 2603.57,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026782+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-027",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 4566.73,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026785+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-019",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 6136.69,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026787+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-018",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 1757.82,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026789+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-041",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 1456.36,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026791+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-028",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 4832.58,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026794+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-009",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 3170.6,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026796+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-034",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 1587.37,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026799+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-041",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 5912.97,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026802+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-005",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 3928.15,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026804+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-028",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 11362.3,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026807+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-036",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 2395.11,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026809+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-031",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 3639.51,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026811+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-008",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 6095.68,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026814+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-012",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 1772.01,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026817+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-033",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 6787.79,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026819+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-003",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 13817.41,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026822+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-029",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 95946.13,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026824+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-011",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 2546.81,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026826+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-010",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 43215.62,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026829+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-050",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 40865.21,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026831+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-019",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 3099.94,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026835+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-044",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 2085.46,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026839+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-029",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 1252.42,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026841+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-013",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 2029.38,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026844+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-049",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 35437.06,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026846+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-010",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 5515.43,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026850+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-034",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 5398.51,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026852+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-030",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 1942.35,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026854+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-001",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 8828.51,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026857+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-013",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 6381.76,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026859+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-013",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 1818.7,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026862+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-017",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 95281.6,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026864+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-033",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 2293.6,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026867+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-004",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 2014.62,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026869+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-039",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 8031.24,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026871+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-014",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 7148.46,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026874+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-027",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 4894.98,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026876+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-017",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 8515.77,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026879+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-042",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 4383.56,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026881+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-011",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 4024.77,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026883+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-027",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 45228.79,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026886+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-008",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 2249.61,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026888+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-013",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 97895.0,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026891+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-021",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 8053.12,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026893+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-032",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 9675.11,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026896+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-034",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 4386.89,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026901+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-016",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 1770.15,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026904+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-020",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 6458.42,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026906+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-009",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 1738.27,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026908+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-041",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 9334.04,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026911+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-050",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 2545.65,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026914+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-003",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 1790.83,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026916+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-039",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 3182.54,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026918+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-035",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 2365.95,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026921+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-050",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 5976.55,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026923+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-037",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 4400.97,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026926+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-050",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 4105.89,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026928+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-005",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 3082.49,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026931+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-033",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 11323.54,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026934+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-047",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 1216.26,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026936+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-007",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 74640.37,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026939+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-041",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 5221.31,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026941+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-033",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 5838.78,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026943+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-046",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 29145.77,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026946+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-033",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 2598.15,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026949+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-035",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 48674.9,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026951+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-037",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 8738.07,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026954+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-012",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 7461.94,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026956+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-043",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 7928.19,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026958+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-026",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 1914.47,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026961+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-035",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 7935.69,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026964+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-040",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 4262.8,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026966+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-050",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 8389.6,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026968+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-041",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 3103.53,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026971+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-011",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 48645.34,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.026973+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-006",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 1639.57,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026975+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-021",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 6712.95,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026978+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-035",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 2835.83,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026980+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-048",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 7265.5,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026982+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-009",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 7419.0,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026985+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-008",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 42332.53,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026987+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-027",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 4166.39,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026989+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-030",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 1733.42,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.026992+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-006",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 2662.28,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.026997+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-011",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 4070.65,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027000+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-010",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 2968.63,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027002+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-007",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 11388.25,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.027005+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-029",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 5969.83,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.027007+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-048",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 9053.31,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027010+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-033",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 1318.22,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027012+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-018",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 7614.08,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027015+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-033",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 7785.04,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027017+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-031",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 6802.05,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027019+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-015",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 30596.47,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027022+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-017",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 102874.59,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027024+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-009",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 2867.41,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.027026+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-001",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 26147.59,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027029+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-036",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 1648.14,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027031+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-044",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 1599.11,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.027034+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-015",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 48663.2,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027036+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-029",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 6234.26,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027038+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-018",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 32155.98,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027041+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-017",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 2602.39,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.027043+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-033",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 2780.81,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.027047+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-028",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 8888.32,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027049+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-021",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 4713.16,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027051+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-015",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 43566.01,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027054+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-047",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 34971.59,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027056+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-005",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 4739.87,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.027058+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-011",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 5290.2,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027061+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-001",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 2592.01,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027063+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-030",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 63454.71,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.027065+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-037",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 1493.27,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027068+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-017",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 2290.67,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027070+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-031",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 6802.07,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027072+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-020",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 3104.73,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.027075+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-029",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 60355.05,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027077+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-042",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 3325.02,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027079+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-023",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 9304.99,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027082+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-020",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 1933.41,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027084+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-021",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 9650.95,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027087+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-036",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 39521.5,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027090+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-028",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 1756.64,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027092+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-047",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 2060.47,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027095+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-028",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 10719.36,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.027098+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-012",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 5950.91,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027100+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-012",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 2974.2,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027206+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-042",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 37181.91,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027210+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-017",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 8307.34,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027212+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-046",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 2402.04,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027215+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-026",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 5944.78,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027217+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-002",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 3991.76,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027220+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-022",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 1324.9,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027222+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-045",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 1855.05,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.027224+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-008",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 1482.69,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027227+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-041",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 11192.35,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027229+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-020",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 11000.01,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.027232+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-045",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 32802.08,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027234+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-030",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 7368.31,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027237+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-049",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 3707.2,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027239+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-044",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 1477.55,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.027242+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-039",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 8688.4,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027244+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-032",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 4642.27,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027247+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-031",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 4943.48,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.027250+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-041",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 8366.46,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027252+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-001",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 1555.7,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027255+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-039",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 2542.9,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027258+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-016",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 1987.47,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027260+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-019",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 5386.56,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027263+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-027",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 27336.32,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027265+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-039",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 10527.84,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027268+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-021",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 31280.68,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027270+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-018",
+    "item_id": "HTL-003",
+    "city": "Sochi",
+    "service_type": "hotel",
+    "amount": 4445.12,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027273+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-034",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 9086.49,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.027275+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-014",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 49589.03,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027278+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-047",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 6986.29,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027280+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-006",
+    "item_id": "EXC-301",
+    "city": "Saint Petersburg",
+    "service_type": "excursion",
+    "amount": 2946.15,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027282+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-009",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 1980.23,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.027285+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-030",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 5197.39,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027287+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-028",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 23141.2,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027289+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-033",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 1300.08,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027292+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-045",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 4907.95,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.027294+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-044",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 71157.12,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.027298+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-034",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 1234.45,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.027300+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-042",
+    "item_id": "TOU-402",
+    "city": "Hurghada",
+    "service_type": "all_inclusive_tour",
+    "amount": 73529.57,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027302+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-032",
+    "item_id": "HTL-001",
+    "city": "Moscow",
+    "service_type": "hotel",
+    "amount": 2135.69,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.027305+00:00"
+  },
+  {
+    "event_type": "review",
+    "user_id": "user-022",
+    "item_id": "APT-002",
+    "city": "Saint Petersburg",
+    "service_type": "apartment",
+    "amount": 2119.81,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027307+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-030",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 25080.46,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027309+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-041",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 2131.05,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.027312+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-010",
+    "item_id": "FLI-102",
+    "city": "Dubai",
+    "service_type": "flight",
+    "amount": 36195.03,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027314+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-036",
+    "item_id": "RAI-201",
+    "city": "Saint Petersburg",
+    "service_type": "rail",
+    "amount": 3948.89,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.027316+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-010",
+    "item_id": "FLI-101",
+    "city": "Sochi",
+    "service_type": "flight",
+    "amount": 5782.68,
+    "score": 4,
+    "timestamp": "2026-05-13T13:51:19.027319+00:00"
+  },
+  {
+    "event_type": "booking",
+    "user_id": "user-043",
+    "item_id": "TOU-401",
+    "city": "Antalya",
+    "service_type": "all_inclusive_tour",
+    "amount": 2667.27,
+    "score": 3,
+    "timestamp": "2026-05-13T13:51:19.027322+00:00"
+  },
+  {
+    "event_type": "search",
+    "user_id": "user-012",
+    "item_id": "EXC-302",
+    "city": "Moscow",
+    "service_type": "excursion",
+    "amount": 1361.1,
+    "score": 5,
+    "timestamp": "2026-05-13T13:51:19.027324+00:00"
+  }
+]

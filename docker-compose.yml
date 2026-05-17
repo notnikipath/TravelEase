@@ -1,0 +1,174 @@
+services:
+  api-gateway:
+    build:
+      context: .
+      dockerfile: api-gateway/Dockerfile
+    container_name: travelease-api-gateway
+    env_file: .env
+    ports:
+      - "8500:8500"
+    depends_on:
+      - search-service
+      - booking-service
+      - content-service
+      - pricing-service
+      - loyalty-service
+      - analytics-service
+      - notification-service
+    networks: [travelease-net]
+
+  search-service:
+    build:
+      context: .
+      dockerfile: search-service/Dockerfile
+    container_name: travelease-search
+    env_file: .env
+    ports:
+      - "31017:8501"
+    depends_on:
+      - redis
+      - elasticsearch
+      - content-service
+    networks: [travelease-net]
+
+  booking-service:
+    build:
+      context: .
+      dockerfile: booking-service/Dockerfile
+    container_name: travelease-booking
+    env_file: .env
+    ports:
+      - "31018:8502"
+    depends_on:
+      - postgres
+      - rabbitmq
+      - content-service
+      - pricing-service
+      - loyalty-service
+      - analytics-service
+      - notification-service
+    networks: [travelease-net]
+
+  content-service:
+    build:
+      context: .
+      dockerfile: content-service/Dockerfile
+    container_name: travelease-content
+    env_file: .env
+    ports:
+      - "31016:8503"
+    depends_on:
+      - postgres
+    networks: [travelease-net]
+
+  pricing-service:
+    build:
+      context: .
+      dockerfile: pricing-service/Dockerfile
+    container_name: travelease-pricing
+    env_file: .env
+    ports:
+      - "31019:8504"
+    depends_on:
+      - redis
+      - content-service
+    networks: [travelease-net]
+
+  loyalty-service:
+    build:
+      context: .
+      dockerfile: loyalty-service/Dockerfile
+    container_name: travelease-loyalty
+    env_file: .env
+    ports:
+      - "8505:8505"
+    depends_on:
+      - postgres
+    networks: [travelease-net]
+
+  analytics-service:
+    build:
+      context: .
+      dockerfile: analytics-service/Dockerfile
+    container_name: travelease-analytics
+    env_file: .env
+    ports:
+      - "31014:8506"
+    depends_on:
+      - postgres
+      - elasticsearch
+      - redis
+    networks: [travelease-net]
+
+  notification-service:
+    build:
+      context: .
+      dockerfile: notification-service/Dockerfile
+    container_name: travelease-notification
+    env_file: .env
+    ports:
+      - "8507:8507"
+    depends_on:
+      - rabbitmq
+    networks: [travelease-net]
+
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+    container_name: travelease-frontend
+    env_file: .env
+    ports:
+      - "5178:5178"
+    depends_on:
+      - api-gateway
+    networks: [travelease-net]
+
+  postgres:
+    image: postgres:16
+    container_name: travelease-postgres
+    environment:
+      POSTGRES_DB: travelease
+      POSTGRES_USER: travelease
+      POSTGRES_PASSWORD: travelease
+    ports:
+      - "30003:5432"
+    volumes:
+      - travelease_postgres_data:/var/lib/postgresql/data
+    networks: [travelease-net]
+
+  redis:
+    image: redis:7
+    container_name: travelease-redis
+    ports:
+      - "31015:6379"
+    networks: [travelease-net]
+
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: travelease-rabbitmq
+    ports:
+      - "5678:5672"
+      - "15678:15672"
+    networks: [travelease-net]
+
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.14.0
+    container_name: travelease-elasticsearch
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+      - ES_JAVA_OPTS=-Xms512m -Xmx512m
+    ports:
+      - "9201:9200"
+    volumes:
+      - travelease_es_data:/usr/share/elasticsearch/data
+    networks: [travelease-net]
+
+networks:
+  travelease-net:
+    driver: bridge
+
+volumes:
+  travelease_postgres_data:
+  travelease_es_data:
