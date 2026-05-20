@@ -1,4 +1,4 @@
-# Task 15 - TravelEase
+# TravelEase
 
 TravelEase is a microservice platform for smart travel search and booking:
 
@@ -78,7 +78,7 @@ See full architecture notes: `docs/architecture.md`.
 ## Local run
 
 ```bash
-cd d:\Шарага\Кинжа4\Task_15_TravelEase
+cd 'your/project/folder'
 docker compose up --build -d
 ```
 
