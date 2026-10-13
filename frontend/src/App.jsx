@@ -1,18 +1,10 @@
 import React, { useMemo, useState } from "react";
+import { dateAfterDays } from "./dates";
 
 const apiBase = import.meta.env.VITE_GATEWAY_URL || "http://localhost:8500";
 
-const tomorrow = () => {
-  const d = new Date();
-  d.setDate(d.getDate() + 1);
-  return d.toISOString().slice(0, 10);
-};
-
-const plusDays = (days) => {
-  const d = new Date();
-  d.setDate(d.getDate() + days);
-  return d.toISOString().slice(0, 10);
-};
+const tomorrow = () => dateAfterDays(1);
+const plusDays = (days) => dateAfterDays(days);
 
 export default function App() {
   const [city, setCity] = useState("Sochi");
@@ -85,10 +77,10 @@ export default function App() {
   };
 
   return (
-    <main className="page">
+    <section className="page">
       <header className="hero">
         <p className="kicker">TravelEase</p>
-        <h1>Smart trip booking with dynamic prices and loyalty perks.</h1>
+        <h1>Find your next journey</h1>
         <p className="sub">Search hotels, flights, rail tickets, excursions, and all-inclusive tours from one flow.</p>
       </header>
 
@@ -159,6 +151,6 @@ export default function App() {
       </section>
 
       {message && <p className="message">{message}</p>}
-    </main>
+    </section>
   );
 }
